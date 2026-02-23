@@ -2,7 +2,7 @@
 
 💻Estudante de Análise e Desenvolvimento de Sistemas. Especializando-me em tecnologias back-end, com domínio crescente em Python e foco na construção de soluções lógicas e eficientes.
 
-## Back-And
+## Back-End
 
 ![python](https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000
 )
