@@ -1,5 +1,13 @@
-## Olá a Todos 👋
+# Olá a Todos 👋
 
+💻**Estudante de Análise e Desenvolvimento de Sistemas. Especializando-me em tecnologias back-end, com domínio crescente em Python e foco na construção de soluções lógicas e eficientes.
+brasileiro 🇧🇷
+
+***Back-And
+
+! [Python] (https://br.freepik.com/vetores-premium/icone-de-python_168208999.htm#fromView=keyword&page=1&position=18&uuid=9eea5257-0434-45db-a309-4c1a539cd7fc&query=Python) 
+
+🇧🇷
 <!--
 **douglasmarcos360/douglasmarcos360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
